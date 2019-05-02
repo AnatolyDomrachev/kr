@@ -6,11 +6,12 @@
 
 
 
+// подключение заголовочных файлов. Нужны для использования некоторых функций 
+#include <iostream> //для cin, cout
+#include <vector> // для типа даннеых vector
+#include <cstring> // для strcmp
 
-#include <iostream> // подключение заголовочных файлов. Нужны для использования некоторых функций 
-#include <vector>
-#include <cstring>
-#include <algorithm>
+
 
 using namespace std; // Установка пространства имён. Чтобы использовать cin, cout
 //описание структур
